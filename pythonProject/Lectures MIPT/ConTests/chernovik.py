@@ -2,6 +2,7 @@
 N = int(input())  # 0 <= N <= 100 - количество дней
 fence = []
 day = [0, 0, 0]
+#добавляю комит
 for k in range(N):
     for i in range(3):
         day[i] = int(input())
