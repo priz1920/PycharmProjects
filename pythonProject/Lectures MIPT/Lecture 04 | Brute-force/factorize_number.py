@@ -17,3 +17,4 @@ def factorize_number(x):
 
 
 factorize_number(a)
+print("Число разложили на простые")
